@@ -11,6 +11,7 @@ I'm an IT Technician from Portugal with over 5 years of practical experience in 
 - ⚙️  C++.
 - ⚙️  ₿itcoin-API
 - ₿ Interested in Bitcoin technology.
+- ₿ leitura Intervalo de taxas, Total de taxas, Subsídio + taxas, Minerador, bloco 
 - 🔎 Exploring Bitcoin transactions, blocks and fees using mempool.space.
 
 ## My Goals
