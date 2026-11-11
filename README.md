@@ -6,9 +6,9 @@ I'm an IT Technician from Portugal with over 5 years of practical experience in 
 
 - 💻 Computer repair and maintenance.
 - 🪟 Windows installation and troubleshooting.
-- 🐍 Learning Python.
-- 🌐 Learning JavaScript.
-- ⚙️ Learning C++.
+- 🐍  Python.
+- 🌐  JavaScript.
+- ⚙️  C++.
 - ₿ Interested in Bitcoin technology.
 - 🔎 Exploring Bitcoin transactions, blocks and fees using mempool.space.
 
